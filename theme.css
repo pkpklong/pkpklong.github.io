@@ -26,6 +26,7 @@ footer, header, hgroup, menu, nav, section {
 }
 .BigPicture{
 	position: relative;
-	background-colour: black;
+	background-color: black;
+	color: white;
 	width: 100%;
 }
